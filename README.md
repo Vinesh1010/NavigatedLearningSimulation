@@ -1,7 +1,6 @@
 # DQN Grid Simulation Web App
 
 This project is a full-stack web-based visualization of a DQN agent navigating a grid of resources ("books") using a trained PyTorch model. It allows you to run, visualize, and interact with the agent's pathfinding in your browser, using real data from `extracted_data.json` and a DQN model checkpoint.
-
 ---
 
 ## Features
